@@ -1,2 +1,2 @@
-# helloworld
+# Log Generator
 new project
